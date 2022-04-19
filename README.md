@@ -1,7 +1,7 @@
 # Quant_Exploration
 
 
-
+High Level Overview:
 https://www.youtube.com/watch?v=Lot30tsEhy0
 
 3 
