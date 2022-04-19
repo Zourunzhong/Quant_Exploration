@@ -50,12 +50,11 @@ def main():
                     if stock_ticker == "BRK.B":
                         stock_sector = "Financial Services"
 
+
                 # store sector into stock_ticker_dict for future reference
                 stock_ticker_dict[stock_ticker] = stock_sector
             else:
                 stock_sector = stock_ticker_dict[stock_ticker]
-
-            print(stock_ticker, stock_sector)
 
             # portfolio allocation weight
             weight_of_fund = fund_ticker_list[fund_ticker]
